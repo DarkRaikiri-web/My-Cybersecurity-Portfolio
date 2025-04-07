@@ -1,2 +1,2 @@
 # My-Cybersecurity-Portfolio
-an aspiring ethical hacker in training
+Cybersecurity learning journey as a teen ethical hacker in training.
