@@ -1,7 +1,6 @@
 # My-Cybersecurity-Portfolio
 Cybersecurity learning journey as a teen ethical hacker in training.
 -----
-
 My Cybersecurity Journey (started at 15)
 
 Hi. I am Dark Raikiri, and yes, it is not my real name. I am starting my journey to become a red teamer. This is a summary of everything I've done until now. 
