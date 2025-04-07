@@ -11,7 +11,7 @@ Focused areas- Linux basics, Networking Fundamentals, significant hands-on exper
 -----
 
 What i did-
-1) Before starting learning, I educated myself about VirtualBox. I immediately downloaded VirtualBox (latest version) in which I downloaded KaliLinux.
+1) Before starting everything, I educated myself about VirtualBox. I immediately downloaded VirtualBox (latest version) in which I downloaded KaliLinux.
 2) Downloaded important books that would teach me linux basics and would also provide some examples of hands-on experience.
 3) Watched Youtube videos for learning about Networking fundamentals. 
 4) Completed the rooms like 'Offensive Security', 'Linux Fundamentals Part- 1' and 'Networking Fundamentals Part -1' in 'Tryhackme'.
