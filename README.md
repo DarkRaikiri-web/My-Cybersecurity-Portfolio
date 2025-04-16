@@ -30,13 +30,13 @@ Key Skills Learned-
 -----
 
 what's next- 
--OSI models deep dive.
--More about different commands in Linux.
--Getting started with more hands-on from **HacktheBox**.
+1) OSI models deep dive.
+2) More about different commands in Linux.
+3) Getting started with more hands-on from **HacktheBox**.
 
 Target-
--Master Linux and a gain significant amount of knowledge about Networking in **2 months**. 
+1)Master Linux and a gain significant amount of knowledge about Networking in **2 months**. 
 
 More- 
--I will always update the portfolio after **1 week** of learning and practicing. 
+1) I will always update the portfolio after **1 week** of learning and practicing. 
 -----
