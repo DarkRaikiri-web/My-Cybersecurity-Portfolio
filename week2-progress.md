@@ -29,7 +29,7 @@ Thinngs to be noted-
 
 ---
 
-Overall, this week was very less productive and I couldn't do most of the things thatwere the targets. I think that i should try to avoid burn outs and slacking off during my studies.
+Overall, this week was very less productive and I couldn't do most of the things and missed few of the targets. I think that i should try to avoid burn outs and slacking off during my studies.
 ---
 
-Thankyou for reading ^^
+Thankyou for reading. See you on week 3 ^^
