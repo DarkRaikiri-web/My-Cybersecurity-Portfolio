@@ -2,7 +2,7 @@
 ---
 
 
-Hello, it's me after a week of grinding again for Linux and Networking.
+Hello, it's week 2 of grinding again for Linux and Networking.
 ---
 
 
